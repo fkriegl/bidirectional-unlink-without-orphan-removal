@@ -1,4 +1,6 @@
-# example project for stackoverflow question
+### Unlink a bidirectional 1:n mapping without orphan removal by JPA
+Code is related to a question on Stack Overflow:
+https://stackoverflow.com/questions/77110587/unlink-a-bidirectional-1n-mapping-without-orphan-removal-by-jpa
 
 ### Database
 
